@@ -5,3 +5,4 @@
     2. InceptionV3 that was pre-trained on the image_net dataset    
 - Data: downloaded a csv with Airbnb data from http://insideairbnb.com/get-the-data.html 
     - only used data from NY
+[https://youtu.be/wCrz9y_1a8Y]
