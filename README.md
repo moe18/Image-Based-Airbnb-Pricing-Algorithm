@@ -8,3 +8,4 @@
  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wCrz9y_1a8Y/0.jpg)](https://youtu.be/wCrz9y_1a8Y)
 
+- also recently added a model using other featers to predict the price of a listing, next project I will combine the features with the image of the listing and see how good the model can preform 
